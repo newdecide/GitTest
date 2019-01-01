@@ -10,6 +10,11 @@ clear(터미널과 iTumb 텍스트 정리)
 
 cd GitTest(깃 폴더로 이동)
 
+git 홈페이지에서 레포지터리를 만듭니다.
+
+git remote add origin https://github.com/newdecide/GitTest.git
+
+
 git init(GitTest 폴더를 저장소로 사용하겠다.)
 
 git add .(만든 폴더 전부 git에 추가하기)
